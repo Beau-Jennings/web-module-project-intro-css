@@ -46,3 +46,103 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+* {
+	box-sizing: border-box;
+}
+header{
+	display: block;
+	text-align: center;
+}
+
+body{
+	margin: 2% 2%;
+	padding: 2% 2%;
+}
+
+#content_body {
+	margin:2% 2%;
+	font-family: 'Roboto Mono', monospace;
+}
+.header_img  {
+	display: inline-block;
+	max-width: 200px;
+	border-radius: 50%;
+	height: auto;
+	padding: 1rem;
+	}
+
+.nav_one {
+	background: #ff764e;	
+	}
+
+.nav_two {
+	background: #5ED3EB;
+}
+
+.nav_three {
+	BACKGROUND: #FFCD69
+}
+.navi a{
+	display: inline-block;
+	text-align: center;
+	margin: 2% 2%;
+	font-family: 'Roboto Mono', monospace;
+	border-radius: 1rem;
+	padding: 2% 2%;
+}
+
+.text {
+	font-family: 'Roboto Mono', monospace;
+	line-height: 2;
+	display: inline-block;
+	margin: 0% 0% 2% auto;
+	padding: 10px;
+}
+
+h1 {
+	font-family: 'Chelsea Market', cursive;
+	font-size: 50px;
+}
+
+p {
+	text-align: center;
+	font-family: 'Roboto Mono', monospace
+}
+
+#fire {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 10%;
+}
+
+span {
+	font-weight: 800;
+}
+#rv {
+	display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 10%;
+}
+
+footer{
+	display: inline-block;
+	margin: 2% 2%;
+	padding: 0 4%;
+}
+.image {
+	margin: 2 2;
+	max-width: 250px;
+	height: 10%;
+}
+
+.tatl a{
+	display: inline-block;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	border-radius: 1rem;
+	margin: 0 2%;
+	width: 150px;
+	padding: 2% 2%;
+}
